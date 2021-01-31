@@ -1,0 +1,8 @@
+name: Captcha
+main: xXWaterFrogzX\Captcha\Main
+description: A tool that can be used by staff members to help catch cheaters!
+version: 1.0.0
+author: xXWaterFrogzX
+api:
+  - 3.0.0
+...

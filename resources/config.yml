@@ -1,0 +1,20 @@
+# Captcha Config
+# Use "§" for color coding messages
+
+# Time in seconds everytime a Captcha sends to a player
+captcha-time: 1800
+
+# Captcha No permission message
+captcha-noperm: "§cNo permission!"
+
+# Message when a Captcha has been sent to another player
+captcha-sentmessage: "§aCaptcha has been sent!"
+
+# The item ID of the item for the player to click in the Captcha
+captcha-item: 57
+
+# Kick Message when a player fails a captcha
+captcha-kick: "§cYou have failed the Captcha!"
+
+# Message when a player passes a Captcha
+captcha-pass: "§aYou have passed the Captcha!"
