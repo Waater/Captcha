@@ -5,6 +5,7 @@ branches:
 projects:
   Captcha:
     path: ""
+    icon: icon.png
     libs:
       - src: muqsit/invMenu/InvMenu
         branch: master
