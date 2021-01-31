@@ -1,0 +1,12 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/xXWaterFrogzX/Captcha
+build-by-default: true
+branches:
+- master
+projects:
+  Captcha:
+    path: ""
+    libs:
+      - src: muqsit/invMenu/InvMenu
+        branch: master
+        version: ^4.1.0
+...
